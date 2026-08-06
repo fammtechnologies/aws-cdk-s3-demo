@@ -1,0 +1,20 @@
+dev:
+  account: "155409187655"
+  region: "us-east-1"
+
+  s3:
+    bucket_name: "demo-dev-s3-bucket-0107"
+
+qa:
+  account: "155409187655"
+  region: "us-east-1"
+
+  s3:
+    bucket_name: "demo-qa-s3-bucket-0107"
+
+prod:
+  account: "155409187655"
+  region: "us-east-1"
+
+  s3:
+    bucket_name: "demo-prod-s3-bucket-0107"

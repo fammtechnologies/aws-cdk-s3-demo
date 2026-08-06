@@ -1,9 +1,21 @@
 *.swp
-__pycache__
+__pycache__/
 .pytest_cache
-.venv
+.venv/
 *.egg-info
+*.pyc
+
 
 # CDK asset staging directory
 .cdk.staging
-cdk.out
+cdk.out/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
