@@ -1,6 +1,8 @@
 
 # Welcome to your CDK Python project!
 
+echo "Webhook test $(date)"
+
 This is a blank project for CDK development with Python.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
