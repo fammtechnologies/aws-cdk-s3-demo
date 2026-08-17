@@ -1,7 +1,7 @@
 
 # Welcome to your CDK Python project!
 
-echo "Webhook test $(date)"
+echo " Webhook test $(date)"
 
 This is a blank project for CDK development with Python.
 
